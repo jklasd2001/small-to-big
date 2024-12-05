@@ -1,9 +1,9 @@
 <script>
-    import MobileShell from '../../components/mobile-shell.svelte';
+  import MobileShell from '../../components/mobile-shell.svelte'
 
-    let {children} = $props();
+  let { children } = $props()
 </script>
 
 <MobileShell>
-    {@render children()}
+  {@render children()}
 </MobileShell>

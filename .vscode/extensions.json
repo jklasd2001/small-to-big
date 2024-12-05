@@ -1,16 +1,16 @@
 {
-    "recommendations": [
-        "dbaeumer.vscode-eslint",
-        "eamodio.gitlens",
-        "vincaslt.highlight-matching-tag",
-        "ms-ceintl.vscode-language-pack-ko",
-        "ms-vscode.live-server",
-        "davidanson.vscode-markdownlint",
-        "pkief.material-icon-theme",
-        "equinusocio.vsc-material-theme",
-        "equinusocio.vsc-material-theme-icons",
-        "esbenp.prettier-vscode",
-        "wayou.vscode-todo-highlight",
-        "codeandstuff.package-json-upgrade"
-    ]
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "vincaslt.highlight-matching-tag",
+    "ms-ceintl.vscode-language-pack-ko",
+    "ms-vscode.live-server",
+    "davidanson.vscode-markdownlint",
+    "pkief.material-icon-theme",
+    "equinusocio.vsc-material-theme",
+    "equinusocio.vsc-material-theme-icons",
+    "esbenp.prettier-vscode",
+    "wayou.vscode-todo-highlight",
+    "codeandstuff.package-json-upgrade"
+  ]
 }

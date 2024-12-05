@@ -1,9 +1,9 @@
 <script>
-    import AppShell from '../../components/app-shell.svelte';
+  import AppShell from '../../components/app-shell.svelte'
 
-    let {children} = $props();
+  let { children } = $props()
 </script>
 
 <AppShell>
-    {@render children()}
+  {@render children()}
 </AppShell>
