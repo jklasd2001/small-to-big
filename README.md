@@ -7,6 +7,8 @@
 
 - <https://joyofcode.xyz/sveltekit-markdown-blog>
 
+- <https://iconify.design/>
+
 ## 초대장 참고
 
 - <https://www.itscard.co.kr/mobile/new_m/mcard/minifyHTML/MCard29.asp>
