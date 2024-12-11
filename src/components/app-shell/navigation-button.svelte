@@ -8,7 +8,7 @@
   }
 </script>
 
-<div class="fixed bottom-6 right-6">
+<div class="fixed bottom-6 right-6 flex flex-col">
   <button class="btn btn-square" onclick={scrollTop}>Up</button>
   <button class="btn btn-square" onclick={scrollBottom}>Down</button>
 </div>

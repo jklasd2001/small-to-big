@@ -9,8 +9,6 @@ export default {
     logs: true,
   },
   theme: {
-    extend: {
-      
-    },
+    extend: {},
   },
 }
