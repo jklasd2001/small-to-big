@@ -1,8 +1,10 @@
 <script lang="ts">
   const { data } = $props()
-
-  console.log(data)
 </script>
+
+<svelte:head>
+  <title>{data.meta.title}</title>
+</svelte:head>
 
 <div class="prose mx-auto max-w-2xl">
   <data.content />

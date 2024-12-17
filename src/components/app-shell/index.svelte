@@ -1,10 +1,12 @@
 <script>
-  import NavigationButton from './navigation-button.svelte'
+  import NavigationButton from './components/navigation-button.svelte'
 
   let { children } = $props()
 </script>
 
-<header class="fixed left-0 top-0 h-16 w-screen border-b border-b-base-300">
+<header
+  class="fixed left-0 top-0 h-16 w-screen border-b border-b-base-300 bg-red-500"
+>
   <div
     class="mx-auto flex h-full max-w-7xl items-center justify-between gap-4 px-4"
   >
