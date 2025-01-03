@@ -16,6 +16,9 @@ const config = {
       remarkPlugins: [relativeImages],
     }),
   ],
+  highlighter: createHighlighter({
+    // theme: 'github-dark',
+  }),
   extensions: ['.svelte', '.svx', '.md'],
   compilerOptions: {
     runes: true,
