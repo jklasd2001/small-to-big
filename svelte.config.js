@@ -22,8 +22,11 @@ const config = {
   extensions: ['.svelte', '.svx', '.md'],
   compilerOptions: {
     runes: true,
+    // script_context_deprecated 경고 무시
+    warningFilter: (warning) => {
+      return warning.code !== "script_context_deprecated"
+    }
   },
-  
 }
 
 export default config

@@ -7,6 +7,8 @@
 
 - <https://joyofcode.xyz/sveltekit-markdown-blog>
 
+- <https://www.heropy.dev/p/QWrwz3>
+
 - <https://iconify.design/>
 
 ## 초대장 참고
