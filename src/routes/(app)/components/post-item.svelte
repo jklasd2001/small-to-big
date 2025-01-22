@@ -4,7 +4,7 @@
   let { post }: { post: Post } = $props()
 </script>
 
-<a href="/posts/{post.slug}" class="p-2">
+<a href="/posts/{post.slug}" class="">
   <div class="overflow-hidden">
     <img
       src="https://t3.ftcdn.net/jpg/05/17/82/24/360_F_517822417_cW17ljcETUNX8BylhlNesxWyhxHXO3Nc.jpg"
