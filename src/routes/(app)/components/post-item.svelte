@@ -13,7 +13,7 @@
     />
   </div>
 
-  <h3 class="mb-1 mt-2 text-xl font-bold">
+  <h3 class="mt-2 mb-1 text-xl font-bold">
     {post.title}
   </h3>
 
