@@ -11,6 +11,7 @@
     "equinusocio.vsc-material-theme-icons",
     "esbenp.prettier-vscode",
     "wayou.vscode-todo-highlight",
-    "codeandstuff.package-json-upgrade"
+    "codeandstuff.package-json-upgrade",
+    "pnp.polacode"
   ]
 }

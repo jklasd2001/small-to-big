@@ -8,7 +8,7 @@
   }
 </script>
 
-<div class="fixed bottom-6 right-6 flex flex-col gap-3">
+<div class="fixed right-6 bottom-6 flex flex-col gap-3">
   <button class="btn btn-square" aria-label="Scroll to top" onclick={scrollTop}>
     <svg
       xmlns="http://www.w3.org/2000/svg"
