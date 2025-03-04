@@ -35,3 +35,9 @@ docker -v
 
 docker-compose -v
 ```
+
+```bash
+docker login
+```
+
+![Capture 3](./images/capture_3.png)
