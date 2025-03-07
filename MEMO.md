@@ -9,3 +9,5 @@
 ## TODO
 
 1. Svelte, ESLINT, PRETTIER 설정
+
+<https://www.captaincodeman.com/deploy-a-sveltekit-app-to-github-pages>
