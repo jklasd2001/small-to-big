@@ -1,6 +1,8 @@
 import type { Post } from '$lib/types'
 import { json } from '@sveltejs/kit'
 
+export const prerender = true
+
 export const GET = async () => {
   const paths = import.meta.glob('/src/posts/**/*.md', { eager: true })
 

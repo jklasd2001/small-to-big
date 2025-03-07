@@ -2,7 +2,8 @@ import { vitePreprocess } from '@sveltejs/vite-plugin-svelte'
 import relativeImages from 'mdsvex-relative-images'
 import { mdsvex } from 'mdsvex'
 import { createHighlighter } from 'shiki'
-import adapter from '@sveltejs/adapter-vercel';
+// import adapter from '@sveltejs/adapter-vercel';
+import adapter from '@sveltejs/adapter-static'
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {

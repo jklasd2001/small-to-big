@@ -1,21 +1,15 @@
-# Reference
+<h1 align="center">Hi, I'm Frontend Developer</h2>
 
-- <https://svelte.dev/docs/layout>
-- <https://svelte.dev/docs/routing>
-- <https://svelte.dev/docs/routing#layout>
-- <https://svelte.dev/docs/routing#layout-with-children>
-- <https://joyofcode.xyz/sveltekit-markdown-blog>
-- <https://www.heropy.dev/p/QWrwz3>
-- <https://iconify.design/>
+<h2 align="center"><b>🛠 Tech Stack</b></h2>
 
-## 초대장 참고
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,ts,js" />
+  <img src="https://skillicons.dev/icons?i=react,next" />
+  <img src="https://skillicons.dev/icons?i=emotion,tailwind" />
+</p>
 
-- <https://www.itscard.co.kr/mobile/new_m/mcard/minifyHTML/MCard29.asp>
-
-## ESLINT, PRETTIER
-
-- <https://alvin.codes/snippets/prettier-svelte>
-
-## TODO
-
-1. Svelte, ESLINT, PRETTIER 설정
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jklasd2001" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jklasd2001" />
+</p>
