@@ -7,7 +7,7 @@
     "editor.defaultFormatter": "svelte.svelte-vscode"
   },
   "editor.formatOnSave": true,
-  "npm.packageManager": "pnpm",
+  "npm.packageManager": "bun",
   "files.exclude": {
     "**/.git": true,
     "**/.svn": true,

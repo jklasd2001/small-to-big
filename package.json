@@ -10,7 +10,7 @@
     "dev": "vite dev",
     "format": "prettier --write .",
     "preview": "vite preview",
-    "gh-pages": "pnpm build && npx gh-pages -d build"
+    "gh-pages": "bun build && npx gh-pages -d build"
   },
   "devDependencies": {
     "@eslint/compat": "^1.2.7",

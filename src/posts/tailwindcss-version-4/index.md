@@ -12,7 +12,7 @@ published: true
 ## Install
 
 ```bash
-pnpm install tailwindcss @tailwindcss/vite daisyui@beta
+bun install tailwindcss @tailwindcss/vite daisyui@beta
 ```
 
 ## @tailwindcss/typography
