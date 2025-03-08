@@ -37,19 +37,18 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
 
-      - name: Install pnpm
-        uses: pnpm/action-setup@v4
+      - uses: oven-sh/setup-bun@v2
         with:
-          version: 10
+          bun-version: latest
 
       # Runs a single command using the runners shell
       - name: Install dependencies
-        run: pnpm install
+        run: bun install
 
       # Runs a set of commands using the runners shell
       - name: Build
         run: |
-          pnpm build
+          bun build
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
