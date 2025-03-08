@@ -4,10 +4,6 @@
   const { data } = $props()
 </script>
 
-<svelte:head>
-  <title>YS1991.DEV</title>
-</svelte:head>
-
 <div class="mx-auto max-w-7xl px-4">
   <div class="grid grid-cols-4 gap-4 sm:grid-cols-3">
     {#each data.posts as post}

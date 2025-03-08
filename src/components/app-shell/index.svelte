@@ -4,11 +4,13 @@
   let { children } = $props()
 </script>
 
-<header class="border-b-base-300 fixed top-0 left-0 h-16 w-screen border-b">
+<header
+  class="border-b-base-300 bg-base-100 fixed top-0 left-0 z-50 h-16 w-full border-b select-none"
+>
   <div
     class="mx-auto flex h-full max-w-7xl items-center justify-between gap-4 px-4"
   >
-    <a role="button" href="/" class="text-2xl font-bold">jklasd2001</a>
+    <a role="button" href="/" class="text-2xl font-bold">에라 모르겠다</a>
 
     <div class="flex items-center gap-4">
       <a role="button" href="/invitation-card" class="btn">초대장</a>
